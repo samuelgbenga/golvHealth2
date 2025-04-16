@@ -15,7 +15,7 @@ export default function Navbar() {
   };
 
   return (
-    <section className="flex h-fit items-center justify-around py-4 md:justify-start md:gap-x-[80px] xl:gap-x-[200px] relative">
+    <section className="flex h-fit items-center justify-around pt-4 md:justify-start md:gap-x-[80px] xl:gap-x-[200px] relative">
       {/* Hamburger Icon */}
       {/* <div className="flex cursor-pointer lg:hidden">
         <img
