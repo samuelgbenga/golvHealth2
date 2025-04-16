@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-hoverColor: #FFC000;
+  --color-brightColor: #dd8036;
+  --color-backgroundColor: #36ae9a;
+  --font-display: 'Pacifico', cursive;
+}
